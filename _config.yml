@@ -1,6 +1,6 @@
 remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
-title: "git-wiki-skeleton"
+title: ""
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
 baseurl: "/git-wiki-skeleton"
@@ -27,7 +27,7 @@ show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url: "https://cdn.sanity.io/images/4cruvpk8/production/7c3573f37bd31bf180c2ca7668a07e43a8a9f556-400x400.png"
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
